@@ -1,0 +1,14 @@
+{
+  "name": "helloworld-node",
+  "version": "1.0.0",
+  "description": "quiz 1",
+  "main": "nodeServer.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Gonzalez",
+  "license": "ISC"
+}
